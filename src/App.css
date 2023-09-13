@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+/* }
+body{
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+.list-group{
+  list-style-type:none;
+  display: flex;
+  justify-content: start;
+ 
+ justify-items: center;
+ padding: 5px;
+
+}
+.list-group > li {
+  margin-top: 5px;
+padding: 5px;
+display: flex; 
+justify-content: space-between;
+}
+.list-group > button{
+  position: relative;
+  right: 0px;
+}
+
+.todo-in > input {
+  padding: 8px;
+  border-radius: 10px;
+  border: none;
+  background-color:rgb(207, 199, 199);
+*/} 
